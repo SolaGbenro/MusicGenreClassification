@@ -6,7 +6,6 @@ import operator
 
 
 import numpy as np
-from collections import defaultdict
 
 
 def load_data_set(dat_file_path):
